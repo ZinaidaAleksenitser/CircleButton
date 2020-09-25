@@ -9,13 +9,19 @@
     android:focusable="true"
     android:id="@+id/main_layout"
     tools:context=".MainActivity">
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/tv"/>
+        android:id="@+id/tv"
+       />
+
+
     <ImageView
         android:id="@+id/joy_stick_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/joy_stick_button"/>
+        android:src="@drawable/joy_stick_button" />
+
+
 </RelativeLayout>

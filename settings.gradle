@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "CircleButton"
+rootProject.name = "Touches"
