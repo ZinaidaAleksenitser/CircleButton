@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/morristech/android-glide-giphy-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kevine711/Android-Giphy-Search.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\MyWorkSpace" />
